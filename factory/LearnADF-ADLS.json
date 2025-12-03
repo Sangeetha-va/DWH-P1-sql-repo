@@ -1,0 +1,9 @@
+{
+	"name": "LearnADF-ADLS",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fbed35b3-17ec-43c7-a6a8-73a0de2f637e",
+		"tenantId": "c9ea53fb-c3ac-43cb-8505-17af35d2abed"
+	}
+}
