@@ -1,5 +1,10 @@
 {
 	"name": "LearnADF-ADLS",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "false"
+		}
+	},
 	"location": "canadaeast",
 	"identity": {
 		"type": "SystemAssigned",
